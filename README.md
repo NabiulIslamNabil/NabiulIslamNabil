@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, C and C++**
 
-- 📫 How to reach me **nabilnabiulislam@gmail.com**
+- 📫 Reach me at **nabilnabiulislam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
