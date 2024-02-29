@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/nabiul-islam-nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabiul-islam-nabil" height="30" width="40" /></a>
 <a href="https://fb.com/nabiul.islam.5876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabiul.islam.5876" height="30" width="40" /></a>
 <a href="https://instagram.com/nabiul_._nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabiul_._nabil" height="30" width="40" /></a>
-<a href="https://discord.gg/2413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nabiul_nabil" height="30" width="40" /></a>
+<a href="https://discord.gg/#2413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nabiul_nabil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
