@@ -1,8 +1,8 @@
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm S.M. Nabiul Islam</h1>
 <h3 align="center">A Passionate Computer Science Undergrad Student From Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1708992000&semt=ais">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabiulislamnabil&label=Profile%20views&color=0e75b6&style=flat" alt="nabiulislamnabil" /> </p>
