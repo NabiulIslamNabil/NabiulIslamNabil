@@ -440,11 +440,6 @@ Integrated service platform connecting users with housing, food, healthcare, and
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabiulislamnabil&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=e94560&icon_color=f5a623&text_color=ffffff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabiulislamnabil&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=e94560&text_color=ffffff" alt="Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">
