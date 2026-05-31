@@ -55,16 +55,16 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   "I am someone who genuinely enjoys figuring things out             ║
-║    whether that is debugging code at 2am, explaining a               ║
-║    concept until it finally clicks for a student, or                 ║
-║    building something that solves a real problem."                   ║
+║         "I am someone who genuinely enjoys figuring things out       ║
+║          whether that is debugging code at 2am, explaining a         ║
+║          concept until it finally clicks for a student, or           ║
+║          building something that solves a real problem."             ║
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   CSE @ United International University @ Batch 223                  ║
-║   Champion, UIU Project Show  · Undergrad Teaching Assistant         ║
-║   Mentored 300+ Students  ·  Open to Meaningful Collaborations       ║
+║       CSE @ United International University @ Batch 223              ║
+║       Champion, UIU Project Show  · Undergrad Teaching Assistant     ║
+║       Mentored 300+ Students  ·  Open to Meaningful Collaborations   ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
