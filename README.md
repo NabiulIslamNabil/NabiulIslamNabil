@@ -31,7 +31,7 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/UIU_Project_Show-Champion-00d4aa?style=for-the-badge&labelColor=0f1d35" alt="Champion" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Mobile_%C2%B7_Web_%C2%B7_IoT_%C2%B7_ML-Full_Stack_Builder-4fc3f7?style=for-the-badge&labelColor=0f1d35" alt="Stack" />
+  <img src="https://img.shields.io/badge/Mobile_%C2%B7_Web_%C2%B7_IoT_%C2%B7_ML-Full_Stack_Developer-4fc3f7?style=for-the-badge&labelColor=0f1d35" alt="Stack" />
 
 </div>
 
@@ -62,7 +62,7 @@
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   CSE @ United International University @Batch 223                   ║
+║   CSE @ United International University @ Batch 223                  ║
 ║   Champion, UIU Project Show  · Undergrad Teaching Assistant         ║
 ║   Mentored 300+ Students  ·  Open to Meaningful Collaborations       ║
 ║                                                                      ║
