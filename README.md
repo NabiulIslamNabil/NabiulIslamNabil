@@ -435,10 +435,6 @@ Integrated service platform connecting users with housing, food, healthcare, and
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabiulislamnabil&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=e94560&ring=f5a623&fire=e94560&currStreakLabel=f5a623" alt="GitHub Streak" />
-</div>
-
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
