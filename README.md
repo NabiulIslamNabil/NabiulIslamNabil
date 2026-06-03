@@ -15,13 +15,6 @@
   </a>
   <br/><br/>
 
-  <a href="https://github.com/NabiulIslamNabil">
-    <img src="https://komarev.com/ghpvc/?username=nabiulislamnabil&label=PROFILE+VIEWS&color=00d4aa&style=for-the-badge&labelColor=0f1d35" alt="Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/NabiulIslamNabil?tab=followers">
-    <img src="https://img.shields.io/github/followers/NabiulIslamNabil?label=FOLLOWERS&color=4fc3f7&style=for-the-badge&labelColor=0f1d35&logo=github" alt="Followers" />
-  </a>
 
 <br/><br/>
 
