@@ -15,10 +15,9 @@
   </a>
   <br/><br/>
 
-
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Merit_Scholarship-10_Trimesters_Consecutively-00d4aa?style=for-the-badge&labelColor=0f1d35" alt="Merit Scholarship" />
+  <img src="https://img.shields.io/badge/Merit_Scholarship-11_Trimesters_Consecutively-00d4aa?style=for-the-badge&labelColor=0f1d35" alt="Merit Scholarship" />
   &nbsp;
   <img src="https://img.shields.io/badge/Mentored-300%2B_Students-4fc3f7?style=for-the-badge&labelColor=0f1d35" alt="Mentored" />
   <br/><br/>
@@ -238,10 +237,10 @@ Integrated service platform connecting users with housing, food, healthcare, and
 
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/🎓_100%25_Merit_Scholarship-10_Consecutive_Semesters-f5a623?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/🎓_100%25_Merit_Scholarship-11_Consecutive_Semesters-f5a623?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
 <b>United International University</b><br/>
-Awarded full merit scholarship every semester from Spring 2023 through Fall 2025.<br/><br/>
+Awarded full merit scholarship every semester from Spring 2023 through Summer 2026.<br/><br/>
 </td>
 
 </tr>
