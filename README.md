@@ -365,7 +365,7 @@ Integrated service platform connecting users with housing, food, healthcare, and
 <img src="https://img.shields.io/badge/Undergraduate_Teaching_Assistant-UIU_·_Spring_2025–Present-e94560?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
 
-- Conducted lab sessions for **Data Structures & Algorithms I & II**, **Electronics Lab**, **Structured Programming Language** and **Introduction to Computer Systems**
+- Conducted lab sessions for **Data Structures & Algorithms I & II**, **Software Engineering Lab**, **Electronics Lab**, **Structured Programming Language** and **Introduction to Computer Systems**
 - Counselled **300+ students** across labs and office hours
 - Mentored teams that **won the UIU Project Show**
 - Guided students in debugging, algorithmic problem solving, and project development
