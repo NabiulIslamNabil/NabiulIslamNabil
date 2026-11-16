@@ -11,7 +11,7 @@
 <div align="center">
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=CSE+%40+United+International+University;Champion+%E2%80%93+UIU+CSE+Project+Show+2025;Undergraduate+Teaching+Assistant+%40+UIU;Building+Real-World+Apps+Across+the+Stack;100%25+Merit+Scholar+%E2%80%93+10+Consecutive+Semesters" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=CSE+%40+United+International+University;Champion+%E2%80%93+UIU+CSE+Project+Show+Spring+2025;Undergraduate+Teaching+Assistant+%40+UIU;Building+Real-World+Apps+Across+the+Stack;100%25+Merit+Scholarships+%E2%80%93+12+Consecutive+Semesters" alt="Typing SVG" />
   </a>
   <br/><br/>
 
