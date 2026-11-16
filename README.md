@@ -2,7 +2,7 @@
 <!--                     🌊  WAVE HEADER BANNER  🌊                    -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0f1d35,100:0a0e1a&height=250&section=header&text=S.M.%20Nabiul%20Islam&fontSize=52&fontColor=00d4aa&fontAlignY=30&desc=Learn%20Deep%20%C2%B7%20Build%20Real%20%C2%B7%20Teach%20Forward&descSize=20&descAlignY=52&descColor=4fc3f7&animation=twinkling" width="100%" />
+<img src="./hero.png" alt="S.M. Nabiul Islam Nabil engineering banner" width="100%" />
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                      ⌨️  TYPING ANIMATION  ⌨️                     -->
@@ -17,9 +17,9 @@
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Merit_Scholarship-11_Trimesters_Consecutively-00d4aa?style=for-the-badge&labelColor=0f1d35" alt="Merit Scholarship" />
+  <img src="https://img.shields.io/badge/Merit_Scholarship-12_Trimesters_Consecutively-00d4aa?style=for-the-badge&labelColor=0f1d35" alt="Merit Scholarship" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Mentored-300%2B_Students-4fc3f7?style=for-the-badge&labelColor=0f1d35" alt="Mentored" />
+  <img src="https://img.shields.io/badge/Mentored-400%2B_Students-4fc3f7?style=for-the-badge&labelColor=0f1d35" alt="Mentored" />
   <br/><br/>
   <img src="https://img.shields.io/badge/UIU_Project_Show-Champion-00d4aa?style=for-the-badge&labelColor=0f1d35" alt="Champion" />
   &nbsp;
@@ -93,11 +93,11 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
   <br/><sub><b>Java</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
   <br/><sub><b>C++</b></sub>
 </td>
 <td align="center" width="96">
@@ -105,11 +105,11 @@
   <br/><sub><b>C</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   <br/><sub><b>Python</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   <br/><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="96">
@@ -126,7 +126,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
   <br/><sub><b>Django</b></sub>
 </td>
 <td align="center" width="96">
@@ -134,11 +134,11 @@
   <br/><sub><b>Flutter</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="ReactJS" />
   <br/><sub><b>ReactJS</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
   <br/><sub><b>React Native</b></sub>
 </td>
 <td align="center" width="96">
@@ -154,7 +154,7 @@
   <br/><sub><b>CSS3</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
   <br/><sub><b>MySQL</b></sub>
 </td>
 </tr>
@@ -163,7 +163,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48" alt="GitHub" />
   <br/><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="96">
@@ -237,7 +237,7 @@ Integrated service platform connecting users with housing, food, healthcare, and
 
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/🎓_100%25_Merit_Scholarship-11_Consecutive_Semesters-f5a623?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/🎓_100%25_Merit_Scholarship-12_Consecutive_Semesters-f5a623?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
 <b>United International University</b><br/>
 Awarded full merit scholarship every semester from Spring 2023 through Summer 2026.<br/><br/>
@@ -362,13 +362,26 @@ Integrated service platform connecting users with housing, food, healthcare, and
 <tr>
 <td width="100%">
 <br/>
-<img src="https://img.shields.io/badge/Undergraduate_Teaching_Assistant-UIU_·_Spring_2025–Present-e94560?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Undergraduate_Teaching_Assistant-UIU_·_March_2025–Present-e94560?style=for-the-badge&labelColor=0d0d0d" />
 <br/><br/>
 
 - Conducted lab sessions for **Data Structures & Algorithms I & II**, **Software Engineering Lab**, **Electronics Lab**, **Structured Programming Language** and **Introduction to Computer Systems**
 - Counselled **300+ students** across labs and office hours
 - Mentored teams that **won the UIU Project Show**
 - Guided students in debugging, algorithmic problem solving, and project development
+
+<br/>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<br/>
+<img src="https://img.shields.io/badge/Co--Head_Academic_Growth_%26_Development-UIU_App_Forum%2C_United_International_University_·_Oct_2026–Present-00d4aa?style=for-the-badge&labelColor=0d0d0d" />
+<br/><br/>
+
+- Mentored students through **UIU App Forum** initiatives and academic development programs
+- Conducted workshops to support students' technical and professional growth
+- Managed academic events, coordinating logistics, activities, and participant engagement
 
 <br/>
 </td>
@@ -415,24 +428,6 @@ Integrated service platform connecting users with housing, food, healthcare, and
   <img src="https://img.shields.io/badge/🔗_Federated_Learning-16213e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💻_Software_Development-0d0d0d?style=for-the-badge" />
 </div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                    📊  GITHUB STATS  📊                           -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=500&color=E94560&center=true&vCenter=true&repeat=false&width=400&height=45&lines=%F0%9F%93%8A+GITHUB+STATS" alt="Stats" />
-</div>
-
-<br/>
-
-<br/>
 
 <br/>
 
